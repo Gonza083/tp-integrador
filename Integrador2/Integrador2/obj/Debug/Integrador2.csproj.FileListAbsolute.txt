@@ -1,0 +1,7 @@
+C:\Users\Gonzalo\source\repos\Integrador2\Integrador2\bin\Debug\Integrador2.exe.config
+C:\Users\Gonzalo\source\repos\Integrador2\Integrador2\bin\Debug\Integrador2.exe
+C:\Users\Gonzalo\source\repos\Integrador2\Integrador2\bin\Debug\Integrador2.pdb
+C:\Users\Gonzalo\source\repos\Integrador2\Integrador2\obj\Debug\Integrador2.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\source\repos\Integrador2\Integrador2\obj\Debug\Integrador2.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\source\repos\Integrador2\Integrador2\obj\Debug\Integrador2.exe
+C:\Users\Gonzalo\source\repos\Integrador2\Integrador2\obj\Debug\Integrador2.pdb
